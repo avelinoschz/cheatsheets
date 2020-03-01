@@ -1,2 +1,2 @@
 # cheatsheets
-Collections of cheatsheets for developers
+Cheatsheets collection for developers
